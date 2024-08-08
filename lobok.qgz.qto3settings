@@ -1,0 +1,157 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "enabled": false,
+    "layers": {
+      "ADMINISTRASIDESA_AR_827c396b_28ea_4997_96f2_152e7abff12c": {
+        "enabled": true,
+        "groups": []
+      },
+      "ASTGTMV003_S09E116_dem__1__aaee106a_6a54_4168_8d4d_c90b0dcb4106": {
+        "enabled": true,
+        "groups": []
+      },
+      "CLIPPO_d1feed66_3a7f_40a7_ba62_818fefc2ee9c": {
+        "enabled": true,
+        "groups": []
+      },
+      "CLIP_39a614c9_18be_4c39_a56b_cb1788ff446b": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:81966573": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false,
+    "startOnLoad": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "CLIPPO_d1feed66_3a7f_40a7_ba62_818fefc2ee9c",
+      "name": "CLIPPO",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Extruded",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "No edge",
+          "editText": "None",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"fid\"",
+        "fieldExpressionWidget_altitude": "\"ELEV_MAX\"",
+        "geomWidget0": {
+          "comboData": null,
+          "comboText": "Expression",
+          "editText": "0.00753",
+          "type": 1
+        },
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_AllFeatures": true,
+        "radioButton_Expression": true,
+        "slider_FontSize": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "CLIP_39a614c9_18be_4c39_a56b_cb1788ff446b",
+      "name": "CLIP",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "ADMINISTRASIDESA_AR_827c396b_28ea_4997_96f2_152e7abff12c",
+      "name": "ADMINISTRASIDESA_AR",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "ASTGTMV003_S09E116_dem__1__aaee106a_6a54_4168_8d4d_c90b0dcb4106",
+      "name": "ASTGTMV003_S09E116_dem (1)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:81966573",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "OPT": {
+    "localMode": true
+  },
+  "OutputFilename": "D:/0 UAS QGIS/PLER\\index1.html",
+  "Template": "3DViewer(dat-gui).html",
+  "Title": "lobok",
+  "Version": 20703
+}
